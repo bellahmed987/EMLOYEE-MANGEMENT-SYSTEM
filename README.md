@@ -19,7 +19,7 @@ A full-stack web application to manage employee records, built using **Spring Bo
 
 ## 📷 Screenshots
 
-*Add your app screenshots here*
+
 
 ## 📦 Installation
 
